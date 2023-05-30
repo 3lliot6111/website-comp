@@ -1,0 +1,42 @@
+#font1 {
+  font-size:1000%;
+  color:blueviolet;
+  font-family:'Times New Roman';
+}
+
+#font2 {
+  font-size:500%;
+  color:red;
+  font-family:'Times New Roman';
+}
+
+#test {
+  font-size: 500%;
+  text-align: center;
+  color: blue;
+  font-family: 'Trebuchet MS'
+  ;
+}
+
+#paratext {
+  font-size: 200%;
+  text-align: left;
+  color: black;
+  font-family: 'Trebuchet MS';
+  margin: 0.8;
+}
+
+#navbar {
+  overflow: hidden;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.down {
+  display:flex;
+  margin-top: 100px;
+}
